@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Voltamon
-- 👀 I’m interested in Java Coding 
+- 👀 I’m interested in Python Coding 
 - 🌱 I’m currently learning Data Structures
-- 💞️ I’m looking to collaborate on Swing Game Projects
+- 💞️ I’m looking to collaborate on Robotics Projects
 - 📫 How to reach me ???
 - EMAIL : deswarnavo@gmail.com
 - PHONE : 8777250831
