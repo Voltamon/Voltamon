@@ -11,6 +11,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Voltamon&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 <table align="left">
+
     <tr align="center">
          <td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
 </tr>
@@ -21,7 +22,6 @@
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
          </tr>
       </table>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
 
 
 <!--- 👋 Hi, I’m @Voltamon
