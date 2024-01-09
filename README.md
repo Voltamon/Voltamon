@@ -21,7 +21,7 @@
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
          </tr>
       </table>
-</details>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
 
 
 <!--- 👋 Hi, I’m @Voltamon
