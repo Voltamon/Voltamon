@@ -13,7 +13,7 @@
 <table align="right">
     <tr align="center">
 <td align ="center">
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="20" width="20" /></a>
 </p>
 </td>
          <td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
