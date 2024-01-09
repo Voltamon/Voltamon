@@ -18,10 +18,13 @@
 <td rowspan="3"><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Voltamon&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p></td> 
 </tr>
 <tr align="center">
-             <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
+<td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/unity.png"/><br>Unity</td>             
+<td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
 </tr>
 <tr align="center">
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
+
+<td  align = "center"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height=30/>
+             <br>React.js</td>             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
          </tr>
       </table>
 
