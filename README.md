@@ -9,7 +9,7 @@
 
 <details align="center">
     <summary align="center"><strong>Programming Languages:</strong></summary>
-     <table align="center">
+     <table align="right">
          <tr align="center">
              <td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
              <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
