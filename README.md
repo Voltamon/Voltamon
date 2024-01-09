@@ -7,9 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Voltamon&show_icons=true&hide_border=false&text_color=641e16&icon_color=145a32&bg_color=eaecee&title_color=ee0bf5" alt="Profile Stats"/><br>
 </p>
 
-<details style="margin-left:auto; margin-right:auto;">
+<details align="center">
     <summary align="center"><strong>Programming Languages:</strong></summary>
-     <table style="margin-left:auto; margin-right:auto;">
+     <table align="center">
          <tr align="center">
              <td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
              <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
