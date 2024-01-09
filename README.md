@@ -9,9 +9,7 @@
 </tr>
 <tr align="center">
 <td align="center">
-<p align="center">
-
-    <strong>Hello there !! I am interested in Robotics and Automation. I am currently learning Python and working with Raspberry Pi to explore the world of Robotics. Truly a fascinating journey !!</strong><br><br></p>
+<<strong>Hello there !! I am interested in Robotics and Automation. I am currently learning Python and working with Raspberry Pi to explore the world of Robotics. Truly a fascinating journey !!</strong><br><br>
 </td>
 </tr>
 <hr>
