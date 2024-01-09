@@ -25,7 +25,7 @@
 <tr align="center">
 
 <td  align = "center"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height=30/>
-             <br>React.js</td>             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
+             <br>React</td>             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
          </tr>
       </table>
 
