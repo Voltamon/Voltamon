@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<style>
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}</style>
 <p align="center">
     <strong>Hello there !! I am Voltamon@48. I am interested in Robotics and Automation. I am currently learning Python and working with Raspberry Pi to explore the world of Robotics. Truly a fascinating journey !!</strong><br><br></p>
 
