@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-    <strong>Hello there !! I am OddExtension5 who particularly interested in the role that data, automation, and security play in expanding and improvising the technologies. I also have a growing interest in Statistics, Econometric, Blockchain, Quantum Computing, and the ways in which Data Science can be harnessed for humanity. </strong><br><br></p>
+    <strong>Hello there !! I am Voltamon@48. I am interested in Robotics and Automation. I am currently learning Python and working with Raspberry Pi to explore the world of Robotics. Truly a fascinating journey !!</strong><br><br></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Voltamon&show_icons=true&hide_border=false&text_color=641e16&icon_color=145a32&bg_color=eaecee&title_color=ee0bf5" alt="Profile Stats"/><br>
