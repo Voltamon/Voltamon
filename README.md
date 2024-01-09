@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Voltamon&show_icons=true&hide_border=false&text_color=641e16&icon_color=145a32&bg_color=eaecee&title_color=ee0bf5" alt="Profile Stats"/><br>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Voltamon&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
-<table align="right">
+<table align="center">
     <tr align="center">
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/firebase.png"/>
              <br>Firebase</td>         
