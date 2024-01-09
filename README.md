@@ -1,9 +1,5 @@
 ### Hi there 👋
-<style>
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}</style>
+
 <p align="center">
     <strong>Hello there !! I am Voltamon@48. I am interested in Robotics and Automation. I am currently learning Python and working with Raspberry Pi to explore the world of Robotics. Truly a fascinating journey !!</strong><br><br></p>
 
@@ -11,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Voltamon&show_icons=true&hide_border=false&text_color=641e16&icon_color=145a32&bg_color=eaecee&title_color=ee0bf5" alt="Profile Stats"/><br>
 </p>
 
-<details align="center">
+<details style="margin-left:auto; margin-right:auto;">
     <summary align="center"><strong>Programming Languages:</strong></summary>
      <table class="center">
          <tr align="center">
