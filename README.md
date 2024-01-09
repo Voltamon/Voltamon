@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Voltamon@48</h1>
 <h2 align="center">A passionate Robotics Enthusiast from India</h2>
 <hr>
-<table align="center>
-<tr align="center">
-<td align="center">
 
-<img align="left" width="280" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></td>
-<td align="center">
+<img align="left" width="280" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <strong>Hello there !! I am interested in Robotics and Automation. I am currently learning Python and working with Raspberry Pi to explore the world of Robotics. Truly a fascinating journey !!</strong><br><br>
-</td>
-</tr>
+<hr>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Voltamon&show_icons=true&hide_border=false&text_color=641e16&icon_color=145a32&bg_color=eaecee&title_color=ee0bf5" alt="Profile Stats"/><br>
