@@ -12,6 +12,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Voltamon&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 <table align="right">
     <tr align="center">
+<td align ="center">
+<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+</p>
+</td>
          <td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
 <td rowspan="3"><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Voltamon&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p></td> 
 </tr>
