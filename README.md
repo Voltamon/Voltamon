@@ -12,7 +12,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Voltamon&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 <table align="right">
     <tr align="center">
-         <td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/firebase.png"/>
+             <br>Firebase</td>         
+<td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
 <td rowspan="3"><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Voltamon&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p></td> 
 </tr>
 <tr align="center">
