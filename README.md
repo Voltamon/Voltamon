@@ -32,5 +32,3 @@
         <td align="center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
     </tr>
 </table>
-
-<!--- Additional comments for GitHub profile can be added here --->
