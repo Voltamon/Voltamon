@@ -3,12 +3,14 @@
 <hr>
 
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; height: auto;">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="width: 40%; height: auto; max-height: 100%;">
-  <strong style="margin-left: 20px;">
+  <strong style="margin-left: 20px; display: flex; align-items: center;">
     Hello there !! I am interested in Robotics and Automation. I am currently learning Python and working with Raspberry Pi to explore the world of Robotics. Truly a fascinating journey !!
   </strong>
 </div>
+
+<hr>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Voltamon&show_icons=true&hide_border=false&text_color=641e16&icon_color=145a32&bg_color=eaecee&title_color=ee0bf5" alt="Profile Stats"/><br>
