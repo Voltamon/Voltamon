@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Voltamon@48</h1>
 <h2 align="center">A passionate Mechatronics Enthusiast from India</h2>
 <img align= "center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 <table align="center">
   <tr>
     <td align="center" width="500">
@@ -17,17 +16,14 @@
     </td>
   </tr>
 </table>
-
-<hr>
-
+<img align= "center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Voltamon&show_icons=true&hide_border=false&text_color=641e16&icon_color=145a32&bg_color=eaecee&title_color=ee0bf5" alt="Profile Stats"/><br>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Voltamon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<hr>
-
+<img align= "center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <table align="center">
     <tr align="center">
         <td align="center"><img src="https://github.com/user-attachments/assets/457c7cc4-58bc-482b-b7ec-3979367d26dc" width="30"><br>Rust</td>
