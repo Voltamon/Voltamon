@@ -9,7 +9,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left" width="500">
+    <td align="center" width="500">
       <strong>
         Hello there !! I am interested in Mechatronics & Automation. I am currently learning Rust and working with ESP-32 to explore the world of Mechatronics. Truly a fascinating journey !!
       </strong>
