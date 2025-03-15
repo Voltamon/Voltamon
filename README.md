@@ -28,7 +28,7 @@
 
 <table align="center">
     <tr align="center">
-        <td align="center"><img src="https://img.icons8.com/?size=100&id=h3j2l8UuNAEt&format=png&color=000000"/><br>Rust</td>
+        <td align="center"><img src="[image]https://github.com/user-attachments/assets/3bd96c24-02b5-4b97-b58f-be9cd60b96c9"/><br>Rust</td>
         <td align="center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
         <td rowspan="3"><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Voltamon&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p></td>
     </tr>
