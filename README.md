@@ -28,13 +28,13 @@
 
 <table align="center">
     <tr align="center">
-        <td align="center"><img src="https://github.com/user-attachments/assets/457c7cc4-58bc-482b-b7ec-3979367d26dc" width="50"><br>Rust</br></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/457c7cc4-58bc-482b-b7ec-3979367d26dc" width="50"><br>Rust</td>
         <td rowspan="3"><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Voltamon&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p></td>
     </tr>
     <tr align="center">
         <td align="center"><img src="https://github.com/user-attachments/assets/608a3506-ebe7-4efc-ae2c-665ae0c1c7e5"><br>Python</td>
     </tr>
     <tr align="center">
-        <td align="center"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="30"/><br>React</td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/202c8b37-43e8-49dc-8559-521adc8164c4"/><br>Java</td>
     </tr>
 </table>
