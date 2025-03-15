@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Voltamon@48</h1>
-<h2 align="center">A passionate Mechatronics Enthusiast from India</h2>
+<h2 align="center">A Passionate Programmer from India</h2>
 <img align= "center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <table align="center">
   <tr>
@@ -11,7 +11,7 @@
   <tr>
     <td align="center" width="500">
       <strong>
-        Hello there !! I am interested in Mechatronics & Automation. I am currently learning Rust and working with ESP-32 to explore the world of Mechatronics. Truly a fascinating journey !!
+        Hello there !! I am interested in Robotics & Automation. I am currently learning Rust and working with ESP-32 to explore the world of Robotics. Truly a fascinating journey !!
       </strong>
     </td>
   </tr>
