@@ -28,7 +28,7 @@
 
 <table align="center">
     <tr align="center">
-        <td align="center"><img src="https://i.ibb.co/4R9VPtWs/rust-programming-language.gif"><br>Rust</td>
+        <td align="center"><img src="https://i.ibb.co/4R9VPtWs/rust-programming-language.gif" width="100"><br>Rust</br></td>
         <td rowspan="3"><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Voltamon&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p></td>
     </tr>
     <tr align="center">
