@@ -4,13 +4,13 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="450">
+    <td align="center" width="500">
       <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" 
            style="width: auto; height: auto; min-height: 200px; max-width: 40%;">
     </td>
   </tr>
   <tr>
-    <td align="left" width="450">
+    <td align="left" width="500">
       <strong>
         Hello there !! I am interested in Robotics and Automation. I am currently learning Python and working with Raspberry Pi to explore the world of Robotics. Truly a fascinating journey !!
       </strong>
