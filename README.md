@@ -10,7 +10,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left" style="padding-left: 20px; border: none;">
+    <td align="left" width="650">
       <strong>
         Hello there !! I am interested in Robotics and Automation. I am currently learning Python and working with Raspberry Pi to explore the world of Robotics. Truly a fascinating journey !!
       </strong>
