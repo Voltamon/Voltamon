@@ -27,7 +27,7 @@
 <table align="center">
     <tr align="center">
         <td align="center"><img src="https://github.com/user-attachments/assets/457c7cc4-58bc-482b-b7ec-3979367d26dc" width="30"><br>Rust</td>
-        <td rowspan="3"><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Voltamon&show_icons=true&locale=en&layout=donut" alt="Top Languages" /></p></td>
+        <td rowspan="3"><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Voltamon&show_icons=true&locale=en&layout" alt="Top Languages" /></p></td>
     </tr>
     <tr align="center">
         <td align="center"><img src="https://github.com/user-attachments/assets/608a3506-ebe7-4efc-ae2c-665ae0c1c7e5" width="30"><br>Python</td>
