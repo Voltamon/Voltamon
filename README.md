@@ -36,3 +36,6 @@
         <td align="center"><img src="https://github.com/user-attachments/assets/202c8b37-43e8-49dc-8559-521adc8164c4" width="30"/><br>Java</td>
     </tr>
 </table>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
