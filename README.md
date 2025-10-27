@@ -35,7 +35,7 @@
     <tr align="center">
         <td align="center"><img src="https://github.com/user-attachments/assets/202c8b37-43e8-49dc-8559-521adc8164c4" width="30"/><br>Java</td>
     </tr>
-</table>
+</table
+<img align= "center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Voltamon/Voltamon/output/snake.svg" alt="Snake animation" />
