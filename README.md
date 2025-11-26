@@ -38,3 +38,4 @@
 </table
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <img align="center" src="https://raw.githubusercontent.com/Voltamon/Voltamon/output/snake.svg" alt="Snake animation" />
+<iframe src="https://discord.com/widget?id=1442186554184568996&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
